@@ -1,3 +1,11 @@
+# Astro Flowbite Template
+
+as of: 28 OCT 2024
+based of lastest Astro.build starter and Flowbite free componenents
+with vercel Adapter
+
+Use this to accelerate astro builds with flowbite UI blocks. 
+
 # Build Notes
 
 use pnpm instead of npm. 
